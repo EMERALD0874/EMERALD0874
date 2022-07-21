@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
+Learn more about me and my projects at https://eme.wtf/
+
+![](https://github-readme-stats.vercel.app/api?username=EMERALD0874&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **EMERALD0874/EMERALD0874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
