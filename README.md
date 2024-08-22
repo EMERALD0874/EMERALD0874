@@ -1,5 +1,4 @@
 # Welcome to My GitHub Profile!
-Learn more about me and my projects at https://eme.wtf/
 
 ![](https://github-readme-stats.vercel.app/api?username=EMERALD0874&count_private=true&show_icons=true&theme=midnight-purple)
 
