@@ -10,4 +10,4 @@
 - 👯 I’m looking to collaborate on innovative projects, especially in gaming
 - 💬 Ask me about my home server
 - 📫 Reach me using GitHub issues or by finding me in the Discord server of a project I contribute to
-- ⚡ Fun fact: I am receiving my CS master's in both cybersecurity and interactive computing
+- ⚡ Fun fact: I received my CS master's in both cybersecurity and interactive computing
